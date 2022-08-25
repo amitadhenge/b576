@@ -1,0 +1,3 @@
+-> git config --global user.mail "" => use config. only at first time
+-> git config --global user.name "" => use config. only at first time
+-> git commit -m "msg" => use config. only at first time
